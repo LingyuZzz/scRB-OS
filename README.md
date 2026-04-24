@@ -1,6 +1,6 @@
 Source code for the cross-cancer single-cell analysis of Osteosarcoma and Retinoblastoma.
 
-This repository contains code of analyses in the manuscript. The scripts are arranged sequentially from 00 to 14.
+This repository contains code of analyses in the manuscript. The scripts are arranged sequentially from 00 to 13.
 
 **Pre_processing_and_CNV**
 `00_setup_config.R` configures the environment and loads reference parameters. `01_infercnv_score.R` calculates inferred copy number variations (inferCNV).
